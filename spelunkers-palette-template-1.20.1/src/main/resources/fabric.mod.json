@@ -2,10 +2,10 @@
 	"schemaVersion": 1,
 	"id": "spelunkers_palette",
 	"version": "${version}",
-	"name": "Spelunkers Palette",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"name": "Spelunker's Palette",
+	"description": "Unified block palette for metals and minerals",
 	"authors": [
-		"Me!"
+		"armet"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
