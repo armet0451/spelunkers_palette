@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spelunkers_palette:block/waxed_iron_plating",
+    "up": "spelunkers_palette:block/waxed_iron_plating",
+    "north": "spelunkers_palette:block/waxed_iron_plating",
+    "east": "spelunkers_palette:block/waxed_iron_plating",
+    "south": "spelunkers_palette:block/waxed_iron_plating",
+    "west": "spelunkers_palette:block/waxed_iron_plating",
+    "particle": "spelunkers_palette:block/waxed_iron_plating"
+  },
+  "render_type": "solid"
+}

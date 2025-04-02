@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spelunkers_palette:block/exposed_iron_plating_top",
+    "up": "spelunkers_palette:block/exposed_iron_plating_top",
+    "north": "spelunkers_palette:block/exposed_iron_plating",
+    "east": "spelunkers_palette:block/exposed_iron_plating",
+    "south": "spelunkers_palette:block/exposed_iron_plating",
+    "west": "spelunkers_palette:block/exposed_iron_plating",
+    "particle": "spelunkers_palette:block/exposed_iron_plating"
+  },
+  "render_type": "solid"
+}

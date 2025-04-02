@@ -22,7 +22,7 @@
 			"armet.spelunkers_palette.SpelunkersPaletteClient"
 		],
 		"fabric-datagen": [
-			"armet.spelunkers_palette.SpelunkersPaletteDataGenerator"
+			"armet.spelunkers_palette.DataGenerator"
 		]
 	},
 	"mixins": [
