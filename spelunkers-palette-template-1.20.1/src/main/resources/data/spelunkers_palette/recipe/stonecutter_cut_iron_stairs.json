@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkers_palette:cut_iron_plating"
+  },
+  "result": {
+    "id": "spelunkers_palette:cut_iron_stairs",
+    "count": 1
+  }
+}

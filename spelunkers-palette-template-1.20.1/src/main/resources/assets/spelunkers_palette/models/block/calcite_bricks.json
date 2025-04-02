@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "spelunkers_palette:block/calcite_bricks",
+    "up": "spelunkers_palette:block/calcite_bricks",
+    "north": "spelunkers_palette:block/calcite_bricks",
+    "east": "spelunkers_palette:block/calcite_bricks",
+    "south": "spelunkers_palette:block/calcite_bricks",
+    "west": "spelunkers_palette:block/calcite_bricks",
+    "particle": "spelunkers_palette:block/calcite_bricks"
+  },
+  "render_type": "solid"
+}

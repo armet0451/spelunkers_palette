@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "spelunkers_palette:block/smooth_stone",
+    "bottom": "spelunkers_palette:block/smooth_stone",
+    "top": "spelunkers_palette:block/smooth_stone",
+    "side": "spelunkers_palette:block/smooth_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "spelunkers_palette:block/polished_dripstone",
+    "particle": "spelunkers_palette:block/polished_dripstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "spelunkers_palette:block/cobbled_calcite",
+    "bottom": "spelunkers_palette:block/cobbled_calcite",
+    "top": "spelunkers_palette:block/cobbled_calcite",
+    "side": "spelunkers_palette:block/cobbled_calcite"
+  },
+  "render_type": "solid"
+}

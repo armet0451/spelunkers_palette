@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "spelunkers_palette:block/dripstone_bricks",
+    "bottom": "spelunkers_palette:block/dripstone_bricks",
+    "top": "spelunkers_palette:block/dripstone_bricks",
+    "side": "spelunkers_palette:block/dripstone_bricks"
+  },
+  "render_type": "solid"
+}
