@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "spelunkerspalette:block/basalt_bricks",
+    "side": "spelunkerspalette:block/basalt_bricks",
+    "top": "spelunkerspalette:block/basalt_bricks"
+  }
+}

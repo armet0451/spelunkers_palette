@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "spelunkerspalette:block/cut_iron",
+    "side": "spelunkerspalette:block/cut_iron",
+    "top": "spelunkerspalette:block/cut_iron"
+  }
+}

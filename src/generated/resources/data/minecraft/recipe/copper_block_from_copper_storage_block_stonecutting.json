@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:copper_storage_block"
+  },
+  "result": {
+    "count": 32,
+    "id": "minecraft:copper_block"
+  }
+}

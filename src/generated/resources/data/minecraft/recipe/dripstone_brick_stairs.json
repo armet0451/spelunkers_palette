@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "BUILDING_BLOCKS",
+  "key": {
+    "#": {
+      "item": "spelunkerspalette:dripstone_bricks"
+    }
+  },
+  "pattern": [
+    "  #",
+    " ##",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "spelunkerspalette:dripstone_brick_stairs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spelunkerspalette:block/cobbled_dripstone_slab"
+    },
+    "type=double": {
+      "model": "spelunkerspalette:block/cobbled_dripstone"
+    },
+    "type=top": {
+      "model": "spelunkerspalette:block/cobbled_dripstone_slab_top"
+    }
+  }
+}

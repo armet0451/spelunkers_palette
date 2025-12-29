@@ -1,0 +1,21 @@
+{
+  "values": {
+    "spelunkerspalette:iron_plating": {"next_oxidation_stage": "spelunkerspalette:exposed_iron_plating"},
+    "spelunkerspalette:exposed_iron_plating": {"next_oxidation_stage": "spelunkerspalette:oxidized_iron_plating"},
+
+    "spelunkerspalette:cut_iron": {"next_oxidation_stage": "spelunkerspalette:exposed_cut_iron"},
+    "spelunkerspalette:exposed_cut_iron": {"next_oxidation_stage": "spelunkerspalette:oxidized_cut_iron"},
+
+    "spelunkerspalette:cut_iron_slab": {"next_oxidation_stage": "spelunkerspalette:exposed_cut_iron_slab"},
+    "spelunkerspalette:exposed_cut_iron_slab": {"next_oxidation_stage": "spelunkerspalette:oxidized_cut_iron_slab"},
+
+    "spelunkerspalette:cut_iron_stairs": {"next_oxidation_stage": "spelunkerspalette:exposed_cut_iron_stairs"},
+    "spelunkerspalette:exposed_cut_iron_stairs": {"next_oxidation_stage": "spelunkerspalette:oxidized_cut_iron_stairs"},
+
+    "spelunkerspalette:iron_door": {"next_oxidation_stage": "spelunkerspalette:exposed_iron_door"},
+    "spelunkerspalette:exposed_iron_door": {"next_oxidation_stage": "spelunkerspalette:oxidized_iron_door"},
+
+    "spelunkerspalette:iron_trapdoor": {"next_oxidation_stage": "spelunkerspalette:exposed_iron_trapdoor"},
+    "spelunkerspalette:exposed_iron_trapdoor": {"next_oxidation_stage": "spelunkerspalette:oxidized_iron_trapdoor"}
+  }
+}

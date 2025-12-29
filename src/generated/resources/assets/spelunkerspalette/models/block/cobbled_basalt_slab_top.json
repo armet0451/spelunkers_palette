@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "spelunkerspalette:block/cobbled_basalt",
+    "side": "spelunkerspalette:block/cobbled_basalt",
+    "top": "spelunkerspalette:block/cobbled_basalt"
+  }
+}

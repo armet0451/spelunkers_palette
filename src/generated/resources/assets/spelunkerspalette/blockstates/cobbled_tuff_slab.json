@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spelunkerspalette:block/cobbled_tuff_slab"
+    },
+    "type=double": {
+      "model": "spelunkerspalette:block/cobbled_tuff"
+    },
+    "type=top": {
+      "model": "spelunkerspalette:block/cobbled_tuff_slab_top"
+    }
+  }
+}

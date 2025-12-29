@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:cobblestone",
+    "minecraft:blackstone",
+    "minecraft:cobbled_deepslate",
+
+    "spelunkerspalette:cobbled_tuff",
+    "spelunkerspalette:cobbled_dripstone",
+    "spelunkerspalette:cobbled_calcite",
+    "spelunkerspalette:cobbled_basalt"
+  ]
+}

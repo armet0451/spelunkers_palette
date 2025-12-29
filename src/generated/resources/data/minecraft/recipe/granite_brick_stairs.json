@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "BUILDING_BLOCKS",
+  "key": {
+    "#": {
+      "item": "spelunkerspalette:granite_bricks"
+    }
+  },
+  "pattern": [
+    "  #",
+    " ##",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "spelunkerspalette:granite_brick_stairs"
+  }
+}

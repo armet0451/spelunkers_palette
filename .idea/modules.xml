@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.client.iml" filepath="$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.client.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spelunkers-palette-template-1.20.1.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/spelunkers_palette.iml" filepath="$PROJECT_DIR$/.idea/spelunkers_palette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spelunkerspalette-template-1.21.1(1).main.iml" filepath="$PROJECT_DIR$/.idea/modules/spelunkerspalette-template-1.21.1(1).main.iml" />
     </modules>
   </component>
 </project>

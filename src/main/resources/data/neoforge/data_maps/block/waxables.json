@@ -1,0 +1,30 @@
+{
+  "values": {
+
+    "spelunkerspalette:iron_plating": {"waxed": "spelunkerspalette:waxed_iron_plating"},
+    "spelunkerspalette:exposed_iron_plating": {"waxed": "spelunkerspalette:waxed_exposed_iron_plating"},
+    "spelunkerspalette:oxidized_iron_plating": {"waxed": "spelunkerspalette:waxed_oxidized_iron_plating"},
+
+    "spelunkerspalette:cut_iron": {"waxed": "spelunkerspalette:waxed_cut_iron"},
+    "spelunkerspalette:exposed_cut_iron": {"waxed": "spelunkerspalette:waxed_exposed_cut_iron"},
+    "spelunkerspalette:oxidized_cut_iron": {"waxed": "spelunkerspalette:waxed_oxidized_cut_iron"},
+
+    "spelunkerspalette:cut_iron_stairs": {"waxed": "spelunkerspalette:waxed_cut_iron_stairs"},
+    "spelunkerspalette:exposed_cut_iron_stairs": {"waxed": "spelunkerspalette:waxed_exposed_cut_iron_stairs"},
+    "spelunkerspalette:oxidized_cut_iron_stairs": {"waxed": "spelunkerspalette:waxed_oxidized_cut_iron_stairs"},
+
+    "spelunkerspalette:cut_iron_slab": {"waxed": "spelunkerspalette:waxed_cut_iron_slab"},
+    "spelunkerspalette:exposed_cut_iron_slab": {"waxed": "spelunkerspalette:waxed_exposed_cut_iron_slab"},
+    "spelunkerspalette:oxidized_cut_iron_slab": {"waxed": "spelunkerspalette:waxed_oxidized_cut_iron_slab"},
+
+    "spelunkerspalette:iron_door": {"waxed": "spelunkerspalette:waxed_iron_door"},
+    "spelunkerspalette:exposed_iron_door": {"waxed": "spelunkerspalette:waxed_exposed_iron_door"},
+    "spelunkerspalette:oxidized_iron_door": {"waxed": "spelunkerspalette:waxed_oxidized_iron_door"},
+
+    "spelunkerspalette:iron_trapdoor": {"waxed": "spelunkerspalette:waxed_iron_trapdoor"},
+    "spelunkerspalette:exposed_iron_trapdoor": {"waxed": "spelunkerspalette:waxed_exposed_iron_trapdoor"},
+    "spelunkerspalette:oxidized_iron_trapdoor": {"waxed": "spelunkerspalette:waxed_oxidized_iron_trapdoor"}
+
+
+  }
+}

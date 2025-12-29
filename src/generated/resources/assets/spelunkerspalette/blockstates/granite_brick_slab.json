@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spelunkerspalette:block/granite_brick_slab"
+    },
+    "type=double": {
+      "model": "spelunkerspalette:block/granite_bricks"
+    },
+    "type=top": {
+      "model": "spelunkerspalette:block/granite_brick_slab_top"
+    }
+  }
+}

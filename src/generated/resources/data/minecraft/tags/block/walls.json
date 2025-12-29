@@ -1,0 +1,19 @@
+{
+  "values": [
+    "spelunkerspalette:andesite_brick_wall",
+    "spelunkerspalette:polished_andesite_wall",
+    "spelunkerspalette:granite_brick_wall",
+    "spelunkerspalette:polished_granite_wall",
+    "spelunkerspalette:diorite_brick_wall",
+    "spelunkerspalette:polished_diorite_wall",
+    "spelunkerspalette:cobbled_dripstone_wall",
+    "spelunkerspalette:polished_dripstone_wall",
+    "spelunkerspalette:dripstone_brick_wall",
+    "spelunkerspalette:cobbled_calcite_wall",
+    "spelunkerspalette:polished_calcite_wall",
+    "spelunkerspalette:calcite_brick_wall",
+    "spelunkerspalette:cobbled_basalt_wall",
+    "spelunkerspalette:basalt_brick_wall",
+    "spelunkerspalette:cobbled_tuff_wall"
+  ]
+}

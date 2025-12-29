@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spelunkerspalette:block/cut_gold_slab"
+    },
+    "type=double": {
+      "model": "spelunkerspalette:block/cut_gold"
+    },
+    "type=top": {
+      "model": "spelunkerspalette:block/cut_gold_slab_top"
+    }
+  }
+}

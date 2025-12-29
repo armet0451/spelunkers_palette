@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "BUILDING_BLOCKS",
+  "key": {
+    "#": {
+      "item": "spelunkerspalette:oxidized_cut_iron"
+    }
+  },
+  "pattern": [
+    "  #",
+    " ##",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "spelunkerspalette:oxidized_cut_iron_stairs"
+  }
+}

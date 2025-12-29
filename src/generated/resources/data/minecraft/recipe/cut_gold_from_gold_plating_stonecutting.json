@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:gold_plating"
+  },
+  "result": {
+    "count": 1,
+    "id": "spelunkerspalette:cut_gold"
+  }
+}

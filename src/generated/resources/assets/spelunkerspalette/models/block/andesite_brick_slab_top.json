@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "spelunkerspalette:block/andesite_bricks",
+    "side": "spelunkerspalette:block/andesite_bricks",
+    "top": "spelunkerspalette:block/andesite_bricks"
+  }
+}

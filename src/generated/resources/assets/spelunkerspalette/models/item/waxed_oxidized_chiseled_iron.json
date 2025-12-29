@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "spelunkerspalette:block/waxed_oxidized_chiseled_iron_top",
+    "side": "spelunkerspalette:block/waxed_oxidized_chiseled_iron",
+    "top": "spelunkerspalette:block/waxed_oxidized_chiseled_iron_top"
+  }
+}

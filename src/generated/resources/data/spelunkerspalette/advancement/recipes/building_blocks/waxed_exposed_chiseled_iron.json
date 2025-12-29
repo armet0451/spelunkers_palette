@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "spelunkerspalette:waxed_exposed_chiseled_iron"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_waxed_exposed_cut_iron_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": "spelunkerspalette:waxed_exposed_cut_iron_slab"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_waxed_exposed_cut_iron_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "spelunkerspalette:waxed_exposed_chiseled_iron"
+    ]
+  }
+}

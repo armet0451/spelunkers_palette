@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "spelunkerspalette:block/waxed_oxidized_chiseled_iron_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "spelunkerspalette:block/waxed_oxidized_chiseled_iron"
+    },
+    "axis=z": {
+      "model": "spelunkerspalette:block/waxed_oxidized_chiseled_iron_horizontal",
+      "x": 90
+    }
+  }
+}

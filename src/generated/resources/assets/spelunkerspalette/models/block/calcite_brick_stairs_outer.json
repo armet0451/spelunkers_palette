@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "spelunkerspalette:block/calcite_bricks",
+    "side": "spelunkerspalette:block/calcite_bricks",
+    "top": "spelunkerspalette:block/calcite_bricks"
+  }
+}

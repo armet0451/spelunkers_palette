@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:waxed_oxidized_cut_iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "spelunkerspalette:waxed_oxidized_cut_iron_stairs"
+  }
+}

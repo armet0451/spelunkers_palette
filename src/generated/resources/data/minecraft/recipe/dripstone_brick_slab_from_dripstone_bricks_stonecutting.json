@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:dripstone_bricks"
+  },
+  "result": {
+    "count": 2,
+    "id": "spelunkerspalette:dripstone_brick_slab"
+  }
+}

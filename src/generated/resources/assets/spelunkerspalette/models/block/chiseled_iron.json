@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "spelunkerspalette:block/chiseled_iron_top",
+    "side": "spelunkerspalette:block/chiseled_iron"
+  }
+}

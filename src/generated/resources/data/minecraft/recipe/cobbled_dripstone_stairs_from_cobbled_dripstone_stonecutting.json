@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:cobbled_dripstone"
+  },
+  "result": {
+    "count": 1,
+    "id": "spelunkerspalette:cobbled_dripstone_stairs"
+  }
+}

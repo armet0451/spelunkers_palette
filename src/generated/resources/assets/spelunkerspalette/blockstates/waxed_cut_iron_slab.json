@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "spelunkerspalette:block/waxed_cut_iron_slab"
+    },
+    "type=double": {
+      "model": "spelunkerspalette:block/waxed_cut_iron"
+    },
+    "type=top": {
+      "model": "spelunkerspalette:block/waxed_cut_iron_slab_top"
+    }
+  }
+}

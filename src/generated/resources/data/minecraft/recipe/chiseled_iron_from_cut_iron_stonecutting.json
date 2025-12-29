@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "spelunkerspalette:cut_iron"
+  },
+  "result": {
+    "count": 1,
+    "id": "spelunkerspalette:chiseled_iron"
+  }
+}
