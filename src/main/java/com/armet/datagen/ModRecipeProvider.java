@@ -17,6 +17,7 @@ import net.minecraft.data.recipes.ShapedRecipeBuilder;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.crafting.Ingredient;
+import net.minecraft.world.item.crafting.SmeltingRecipe;
 import net.minecraft.world.level.block.*;
 import net.neoforged.fml.common.Mod;
 import net.neoforged.neoforge.registries.DeferredBlock;
@@ -36,6 +37,7 @@ public class ModRecipeProvider extends RecipeProvider {
     protected void buildRecipes(RecipeOutput p_recipeOutput, HolderLookup.Provider holderLookup) {
         // manual recipes
 
+        smeltingResultFromBase(p_recipeOutput, Blocks.BASALT, ModBlocks.COBBLED_BASALT.base);
 
         ShapedRecipeBuilder.shaped(RecipeCategory.BUILDING_BLOCKS, ModBlocks.IRON_PLATING, 32)
                 .pattern("XX").pattern("XX")
@@ -43,9 +45,6 @@ public class ModRecipeProvider extends RecipeProvider {
                 .unlockedBy("has_iron", has(Items.IRON_INGOT))
                 .save(p_recipeOutput);
         stonecutterResultFromBase(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, ModBlocks.IRON_PLATING, Blocks.IRON_BLOCK, 32);
-
-
-
         //COPPER
         ShapedRecipeBuilder.shaped(RecipeCategory.BUILDING_BLOCKS, Blocks.COPPER_BLOCK, 32)
                 .pattern("XX").pattern("XX")
@@ -54,9 +53,6 @@ public class ModRecipeProvider extends RecipeProvider {
                 .save(p_recipeOutput);
         stonecutterResultFromBase(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, Blocks.COPPER_BLOCK, ModBlocks.COPPER_STORAGE_BLOCK, 32);
         nineBlockStorageRecipes(p_recipeOutput, RecipeCategory.MISC, Items.COPPER_INGOT, RecipeCategory.MISC, ModBlocks.COPPER_STORAGE_BLOCK);
-
-
-
 
 
         //DOORS
@@ -84,7 +80,6 @@ public class ModRecipeProvider extends RecipeProvider {
         // POLISHING AND BRICKS
         polished(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, ModBlocks.POLISHED_STONE, Blocks.STONE);
         polished(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, Blocks.STONE_BRICKS, ModBlocks.POLISHED_STONE);
-
 
         polished(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, ModBlocks.BASALT_BRICKS.base, Blocks.POLISHED_BASALT);
         stonecutterResultFromBase(p_recipeOutput, RecipeCategory.BUILDING_BLOCKS, ModBlocks.BASALT_BRICKS.base, Blocks.POLISHED_BASALT);
