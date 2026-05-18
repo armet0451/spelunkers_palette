@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_wall_side_tall",
-  "textures": {
-    "wall": "spelunkers_palette:block/polished_basalt",
-    "particle": "spelunkers_palette:block/polished_basalt"
-  },
-  "render_type": "solid"
-}
