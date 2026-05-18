@@ -37,7 +37,12 @@ public class ModRecipeProvider extends RecipeProvider {
     protected void buildRecipes(RecipeOutput p_recipeOutput, HolderLookup.Provider holderLookup) {
         // manual recipes
 
+
+        //SMELTING
         smeltingResultFromBase(p_recipeOutput, Blocks.BASALT, ModBlocks.COBBLED_BASALT.base);
+        smeltingResultFromBase(p_recipeOutput, Blocks.DRIPSTONE_BLOCK, ModBlocks.COBBLED_DRIPSTONE.base);
+        smeltingResultFromBase(p_recipeOutput, Blocks.CALCITE, ModBlocks.COBBLED_CALCITE.base);
+        smeltingResultFromBase(p_recipeOutput, Blocks.TUFF, ModBlocks.COBBLED_TUFF.base);
 
         ShapedRecipeBuilder.shaped(RecipeCategory.BUILDING_BLOCKS, ModBlocks.IRON_PLATING, 32)
                 .pattern("XX").pattern("XX")
